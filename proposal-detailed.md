@@ -84,13 +84,13 @@ This section provides a reasonable project schedule.  Estimate dates based on be
 ###### Table 1 - Project Milestones
 | Milestone   |              Description      | Completion Date |               Comment               |
 |-------------|-------------------------------|:---------------:|-------------------------------------|
-| MS 1        | Deliverable 1.1, 1.2 planned  |    2016-11-01   | Mostly done already                 |
-| MS 2        | Deliverable 1.1 done          |    2016-12-01   | Confident delivery date             |
-| MS 3        | Deliverable 1.2 done          |    2017-04-01   | Delivery update via MS 4 report     |
-| MS 4        | Deliverable 1.3 api v1 design |    2017-05-01   | Will deliver separate status report |
-| MS 5        | Deliverable 2 done            |    201x-xx-15   | Updated on 15th of each month       |
+| MS 1        | Deliverable 1.1, 1.2 planned  |    2018-01-01   | Mostly done already                 |
+| MS 2        | Deliverable 1.1 done          |    2018-01-15   | Confident delivery date             |
+| MS 3        | Deliverable 1.2 done          |    2018-01-30   | Delivery update via MS 4 report     |
+| MS 4        | Deliverable 1.3 api v1 design |    2018-02-15   | Will deliver separate status report |
+| MS 5        | Deliverable 2 done            |    2018-02-30   | Updated on 15th of each month       |
 | MS 6        | Deliverable 3-6               |    201x-xx-xx   | Managed as needed                   |
-| MS 7        | Deliverable 1.3 done          |    2017-10-01   | Delivery update via MS 4 report     |
+| MS 7        | Deliverable 1.3 done          |    2017-03-15   | Delivery update via MS 4 report     |
 
 ### Budget
 
