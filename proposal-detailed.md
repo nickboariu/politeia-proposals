@@ -1,19 +1,17 @@
 ﻿###### Usage & Content
 
-# Decred Proposal Template - Detailed
+# Decred - Detailed Proposal Template
 
-###### Description
-Write a brief, summarized tagline of your proposed project (three to ten words).
+###### Title
+Write a brief summary of your proposed project in less than ten words.
 
-###### Example
-Developer fund rewards
+###### Example Title
+Improve conversion rates for dcrweb
 
 ### Overview
 
 ###### Description
-Summarize the proposal in narrative form, anywhere from a few sentances to a few paragraphs.  Provide background and context related to the need and motivation for your project.  
-
-Include a brief high-level overview of your scope, schedule, and budget as the final paragraph of this section.
+Write your description like it was an executive summary. It should summarize your proposal in a way that readers can easily understand the full scope and context of your proposal without having to read it all. A good description includes the problems/solutions/needs/motivations related to your proposal, and is written from a few sentances to a few paragraphs.
 
 ###### Example
 While v12 enabled budgeting and removed the reference node, our donation system was rendered inoperable by the latest version. The donation feature was supporting many of our developers, so we would like to replace that income stream with a more permanent solution that does not rely on altruism.
