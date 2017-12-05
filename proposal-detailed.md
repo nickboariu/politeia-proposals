@@ -14,9 +14,11 @@ Improve conversion rates for dcrweb
 Write your description like it was an executive summary. It should summarize your proposal in a way that readers can easily understand the full scope and context of your proposal without having to read it all. A good description includes the problems/solutions/needs/motivations related to your proposal, and is written from a few sentances to a few paragraphs.
 
 ###### Example
-While v12 enabled budgeting and removed the reference node, our donation system was rendered inoperable by the latest version. The donation feature was supporting many of our developers, so we would like to replace that income stream with a more permanent solution that does not rely on altruism.
+The clarity of our wallet download CTA (call-to-action) could be improved. Nowhere does it communicate that the user is downloading a wallet and as a new visitor, "Download" may not give enough context as to what they are downloading.
 
-Working on Decred should come with some incentive, like receiving some money from the blockchain every month. However, we don't want to micromanage an open source project and we feel we have a highly trustworthy team. The way we plan on using the core team budget is to simply split it between all team members.
+We can improve the clarity of the wallet downlaod CTA by branding it as an offical decred wallet, and increasing the presence of the CTA on the page.
+
+To help increase wallet download conversion goals, I propose we experiment with the size, color, and text of the wallet download CTA.
 
 ### Scope
 
