@@ -1,70 +1,60 @@
-﻿###### Usage & Content
+﻿# Decred - Detailed Proposal Template
 
-# Decred - Detailed Proposal Template
-
-###### Title
+##### How to write the title
 Write a brief summary of your proposed project in less than ten words.
 
-###### Example Title
+##### Example of a title
 Improve conversion rates for dcrweb
 
-### Overview
+## Overview
 
-###### Description
+##### How to write an overview
 Write your description like it was an executive summary. It should summarize your proposal in a way that readers can easily understand the full scope and context of your proposal without having to read it all. A good description includes the problems/solutions/needs/motivations related to your proposal, and is written from a few sentances to a few paragraphs.
 
-###### Example
+##### Example of an overview
 The clarity of our wallet download CTA (call-to-action) could be improved. Nowhere does it communicate that the user is downloading a wallet and as a new visitor, "Download" may not give enough context as to what they are downloading.
 
 We can improve the clarity of the wallet downlaod CTA by branding it as an offical decred wallet, and increasing the presence of the CTA on the page.
 
 To help increase wallet download conversion goals, I propose we experiment with the size, color, and text of the wallet download CTA.
 
-### Scope
+## Scope of Work
 
-###### Description
-This section answers the question *what are you providing*, in narrative form.
+##### What to include in your scope
+Lorem ipsum
 
-###### Example
-
-*Template author's note: the core-team proposal on Politeia does not exactly present the scope as intended by this template (i.e. answering the question: "what are you providing"). I have pasted in the closest approximation I could find within the body of that proposal. I have also rearranged it slightly and broken it up into sections for greater readability.*
-
-**Human Resource Management**
-
-To be a paid team member, one simply needs to agree to our pledge. The pledge is to work on Decred each and every day to expand and improve the ecosystem to the best of my ability?. Whatever someone feels they can contribute to the project is fine, as long as they meet that minimum amount of work. 
-
-Our team structure is highly organized. We have professional project managers onboard which are helping monitor and optimize our process. These project managers have pledged to act as objective observers, hold each team member accountable for what they say they will do, and will recommend if some team members are underperforming or for other reasons need to be removed from a paid spot on the team.
+##### Example of a scope
+Lorem ipsum
 
 **Scope of services**
+Lorem ipsum
 
-Anyone, with any skill set (software, quality assurance, automation, admin, marketing, legal, etc) is needed. 
+### Deliverables
 
-##### Deliverables
-
-###### Description
-This section provides firm items that you will deliver, in numbered form.
+##### How to write your deliverables
+This section provides firm items that you will deliver, in numbered form. Explicit work that has been performed, and the implicit expectations of the community.
 
 1. Deliverable 1
 2. Deliverable 2
 3. Deliverable 3
 
-###### Example
-*Template author's note: the core-team proposal on Politeia does not present the scope as intended by this template (i.e. answering the question: "what are you providing").  I have re-created a sample list, based on the explicit work that has been performed, and the implicit expectations of the community. Below is an incomplete list.  Someone from core or the commmunity is more than welcome to help fill this out*
+##### Example of deliverables
+Lorem ipsum
 
 1. Regular software updates
- 1. 0.12.1
- 2. 0.12.2
- 3. Evolution
+ 1.1 0.12.1
+ 1.2 0.12.2
+ 1.3 Evolution
 2. Communication intentions and project expectations via a regularly updated project roadmap
 3. Human resource management
 4. [Official documentation](https://doc.decred.org/)
 5. Forum management
 6. Foundation management
 
-### Schedule
+## Schedule
 
-###### Description
-This section answers the question *when will you complete key milestones*, in narrative form.  
+##### How to write your schedule
+This section answers the question *when will you complete key milestones*, in narrative form.
 
 Milestones should be described here such that you can refer to them (e.g. by name) in the section below.  Decribe the relationship between milestones: what depends on what and whom.  You should be able to provide **specific dates** for deliverables under your (or your firm's) exclusive control.  Some tasks require input (e.g. separate deliverables) from third parties.  Although a properly planned and managed project will generally be able to deliver specific dates *even with* third parties, it is sometimes more appropriate to communicate **relative dates** in such cases, always updating and communicating updates with best available data.
 
