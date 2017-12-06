@@ -1,9 +1,7 @@
-﻿# Detailed Proposal Template for Decred
-#### What is a proposal?
-A proposal is a document used by project contributors as a working agreement between two parties: the contributor and the Decred community.
+﻿# Decred Contributor Proposals
 
-#### How to write a proposal?
-Proposals typically includes:
+#### How to write a contributor proposal?
+Proposals typically include:
 * Proposal title
 * Overview
 	* Project objectives
@@ -15,15 +13,15 @@ Proposals typically includes:
 * Schedule
 * Budget
 
-#### How to write a proposal title
+#### How to write a contributor proposal title
 Write a brief summary of your proposed project in less than ten words.
 
-#### Example of a proposal titles
+#### Example of a contributor proposal titles
 Improve conversion rates for dcrweb
 
 ## Overview
 
-#### How to write a proposal overview
+#### How to write a contributor proposal overview
 An overivew should read like a high-level summary of your proposal, written in a way that readers can easily understand the full context of your proposal without having to read it all. A overview should include:
 
 * Purpose of the work
@@ -34,7 +32,7 @@ An overivew should read like a high-level summary of your proposal, written in a
 	* Improvements
 * Who is doing the work (Identify parties involved)
 
-#### Example of a proposal overview
+#### Example of a contributor proposal overview
 The clarity of our wallet download CTA (call-to-action) could be improved. Nowhere does it communicate that the user is downloading a wallet and as a new visitor, "Download" may not give enough context as to what they are downloading.
 
 We can improve the clarity of the wallet downlaod CTA by branding it as an offical decred wallet, and increasing the presence of the CTA on the page.
@@ -69,9 +67,9 @@ This section provides firm items that you will deliver, in numbered form. Explic
 Lorem ipsum
 
 1. Regular software updates
- 1.1 0.12.1
- 1.2 0.12.2
- 1.3 Evolution
+	1. 0.12.1
+	1. 0.12.2
+	1. Evolution
 2. Communication intentions and project expectations via a regularly updated project roadmap
 3. Human resource management
 4. [Official documentation](https://doc.decred.org/)
