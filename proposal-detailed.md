@@ -1,27 +1,40 @@
 ﻿# Detailed Proposal Template for Decred
-##### What is a proposal?
+#### What is a proposal?
 A proposal is a document used by project contributors as a working agreement between two parties: the contributor and the Decred community.
 
-##### How to write a proposal?
+#### How to write a proposal?
 Proposals typically includes:
 * Proposal title
 * Overview
-* Scope of Work
 	* Project objectives
+	* Exptected outcomes
+* Scope of Work
+	* Tasks
+	* Deliverables / Milestones
+	* Terms, conditions, requirements
 * Schedule
+* Budget
 
-##### How to write a proposal title
+#### How to write a proposal title
 Write a brief summary of your proposed project in less than ten words.
 
-##### Example of a proposal titles
+#### Example of a proposal titles
 Improve conversion rates for dcrweb
 
 ## Overview
 
-##### How to write a proposal overview
-Write your description like it was an executive summary. It should summarize your proposal in a way that readers can easily understand the full scope and context of your proposal without having to read it all. A good description includes the problems/solutions/needs/motivations related to your proposal, and is written from a few sentances to a few paragraphs.
+#### How to write a proposal overview
+An overivew should read like a high-level summary of your proposal, written in a way that readers can easily understand the full context of your proposal without having to read it all. A overview should include:
 
-##### Example of a proposal overview
+* Purpose of the work
+	* Needs
+	* Motivations
+* Objectives of the work
+	* Benefits
+	* Improvements
+* Who is doing the work (Identify parties involved)
+
+#### Example of a proposal overview
 The clarity of our wallet download CTA (call-to-action) could be improved. Nowhere does it communicate that the user is downloading a wallet and as a new visitor, "Download" may not give enough context as to what they are downloading.
 
 We can improve the clarity of the wallet downlaod CTA by branding it as an offical decred wallet, and increasing the presence of the CTA on the page.
@@ -30,22 +43,29 @@ To help increase wallet download conversion goals, I propose we experiment with 
 
 ## Scope of Work (SoW)
 
-##### What to include in your scope
-SoW is important because it helps to guarantee that a proposal has clear guidelines and expectations. An effective SoW should include objectives, schedules, work details, expected outcomes, 
+#### What to include in your scope
+SoW is important because it helps to guarantee that a proposal has clear guidelines and expectations. An effective SoW should include:
 
-##### Example of a Scope of Work
+* Work Details
+	* high-level, bulleted list of steps/tasks needed to complete work
+* Deliverables
+	* clarify acceptable outcome(s)
+* Schedules & Milestones
+	* time commitments
+
+#### Example of a Scope of Work
 Lorem ipsum
 
 ### Deliverables
 
-##### How to write your deliverables
+#### How to write your deliverables
 This section provides firm items that you will deliver, in numbered form. Explicit work that has been performed, and the implicit expectations of the community.
 
 1. Deliverable 1
 2. Deliverable 2
 3. Deliverable 3
 
-##### Example of deliverables
+#### Example of deliverables
 Lorem ipsum
 
 1. Regular software updates
@@ -60,25 +80,21 @@ Lorem ipsum
 
 ## Schedule
 
-##### How to write your schedule
-This section answers the question *when will you complete key milestones*, in narrative form.
-
+#### How to write your schedule
 Milestones should be described here such that you can refer to them (e.g. by name) in the section below.  Decribe the relationship between milestones: what depends on what and whom.  You should be able to provide **specific dates** for deliverables under your (or your firm's) exclusive control.  Some tasks require input (e.g. separate deliverables) from third parties.  Although a properly planned and managed project will generally be able to deliver specific dates *even with* third parties, it is sometimes more appropriate to communicate **relative dates** in such cases, always updating and communicating updates with best available data.
 
-###### Example
-*Template author's note: the core-team proposal on Politeia does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
-
+#### Example
 It's up to the person how much they work on Decred and how much they are able to earn from the project.  Some of us will work really hard on Decred (often for 10+ hours a day), because we believe in it and we're willing to put in the time to make Decred a critical part of the future economy. We believe it's worth the time to do this.  Others have full time jobs, but they like to contribute during mornings, nights, and weekends. This is all great, the more people we can get putting effort into the project the better off we'll be in the long run.
 
-##### Milestones
+## Milestones
 
-###### Description
+#### Description
 This section provides a reasonable project schedule.  Estimate dates based on best available data.  Anticipate potential issues and provide assumptions/comments to  and manage personal and third-party expectations.  Milestones may or may not correspond one-to-one with deliverables.  
 
-###### Example
+#### Example
 *Template author's note: the core-team proposal on Politeia does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have created a small sample list intended to be edited at some time with better information.  Someone from core or the commmunity is more than welcome to help fill this out*
 
-###### Table 1 - Project Milestones
+### Table 1 - Project Milestones
 | Milestone   |              Description      | Completion Date |               Comment               |
 |-------------|-------------------------------|:---------------:|-------------------------------------|
 | MS 1        | Deliverable 1.1, 1.2 planned  |    2018-01-01   | Mostly done already                 |
@@ -89,19 +105,16 @@ This section provides a reasonable project schedule.  Estimate dates based on be
 | MS 6        | Deliverable 3-6               |    201x-xx-xx   | Managed as needed                   |
 | MS 7        | Deliverable 1.3 done          |    2017-03-15   | Delivery update via MS 4 report     |
 
-### Budget
+## Budget
 
-###### Description
+#### Description
 This section answers the question *how much will it cost*, in narrative form.  
 
 Included here would be a description of what kinds of resources are needed to accomplish your project's deliverables and milestones.  
 
-###### Example
-
-*Template author's note: the core-team proposal on Politeia does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
+#### Example
 
 **Fund Allocation Transparency**
-
 We will be 100% transparent about who on our team is paid and how much they are paid. As defined, a core team member is someone that has made the above pledge to work on Decred everyday. That person then has the freedom to work on Decred as much as they wish to expand their earning potential. We believe in transparency when it comes to the administration of a decentralized product such as Decred, so we will make this data available on one of the websites for the community.
 
 **Compensation Methodology**
@@ -109,12 +122,12 @@ We will be 100% transparent about who on our team is paid and how much they are 
 I'd like to stress that this compensation is by no means meant to provide a "full-time salary" for contributors. Compensation will be modest. At current market prices, the compensation would fall in the category of token appreciation.  We intend to have 2 kinds of slots for paid team members depending on the amount of time they are willing to commit - part-time and full-time. Full-time slots will offer payment of 2-4x (TBD by the project management team, maybe even a monthly contest?) that of a part-time slot. Team members can switch between the two depending on how much they feel they can offer to the project. This should give us flexibility to provide incentive for development and show appreciation for the work that is being done.  We will also encourage team members to hold their Decred they are paid long term. 
 
 
-##### Itemized Costs
+## Budget
 
-###### Description
+#### Description
 This section provides itemized costs, in tabular form
 
-###### Table 2 - Total Costs Requested
+### Table 2 - Total Costs Requested
 |         Item        |    Cost   |   Units  |                       Comment                      |
 |---------------------|:---------:|:--------:|----------------------------------------------------|
 | Time                |   $1,080  |    USD   | See Table 3                                        |
@@ -123,7 +136,7 @@ This section provides itemized costs, in tabular form
 | *Subtotal*          |  *107.5*  |    DCR   | Using $12 USD/DCR                                  |
 | **Total Requested** |  **100**  |  **DCR** | Round down, because I love even numbers            |
 
-###### Table 3 - Time Costs
+### Table 3 - Time Costs
 | Time Costs  | Description       | Quantity |  Rate (USD)  | Cost (USD) | Comment                       |
 |-------------|-------------------|:--------:|:------------:|:----------:|-------------------------------|
 | TC 1        | Deliverable 1     |   1 hr   |       $50    |     $50    | $50/hr billable rate          |
@@ -134,17 +147,17 @@ This section provides itemized costs, in tabular form
 | Discount    | 10% reduction     |          |              |    -$120   | Because I love Decred         |
 | **Total**   |                   |          |              | **$1,080** | Total time costs              |
 
-###### Table 4 - Material Costs
+### Table 4 - Material Costs
 | Material Costs |    Description    |  Deliverable  | Cost (USD) |          Comment         |
 |----------------|-------------------|:-------------:|:----------:|--------------------------|
 | MC 1           | Hardware          | Deliverable 1 |    $200    | Raspberry Pi for testing |
 | MC 2           | Subscription fees | Deliverable 3 |     $10    |                          |
 | **Total**      |                   |               |  **$210**  | Total material costs     |
 
-###### Example
+#### Example
 *Template author's note: the core-team proposal on Politeia does not present the schedule as intended by this template (i.e. answering the question: "when will you complete key milestones").  I have pasted in the closest approximation I could find within the body of that proposal.  Someone from core or the commmunity is more than welcome to help fill this out*
 
-###### Table 2
+### Table 2
 |         Item  |   Price  |   Qty    |   Cost   |   Unit  |           Comment      |
 |---------------|----------|----------|----------|---------|------------------------|
 | Role 1        |  244.67  |     1    |  244.67  |   DCR   | Tungfa                 |
@@ -155,9 +168,9 @@ This section provides itemized costs, in tabular form
 
 * *Note 1: Flare, UdjinM6, Moocowmoo, Crowning, Fernando, Kot, QuantumExplorer, Yidakee, BabyGiraffe, Acidburn, Ddink7*
 
-##### Terms
+## Terms
 
-###### Description
+#### Description
 This section answers the question *how much are you requesting over what time period*
 
 Now that you know your total schedule and budget, you can divide the cost accordingly.  If the total time required is 2 months and the total budget requested is 100 DCR, schedule your payment terms as **50 DCR per month** for **2 months**
@@ -167,7 +180,7 @@ Terms
   * 50 DCR per month
   * 2 months
 
-###### Example
+#### Example
 We are requesting to fund this for 100 months.  It's just a big number that is more than enough.  We can always adjust it later.  
 
 Terms
@@ -175,10 +188,10 @@ Terms
   * 1,176 DCR per month
   * 100 months
 
-### Closing
+## Closing
 
-###### Description
+#### Description
 This section provides your closing statements
 
-###### Example
+#### Example
 We believe in this project and want all those getting compensated to benefit when we finally succeed, this will help spread the benefit out to those that contribute the most to make it happen.  Having lots of people involved with Decred is what makes this successful! If you want to contribute, feel free to ping any of us to join the team.
