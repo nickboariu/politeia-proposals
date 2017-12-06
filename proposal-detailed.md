@@ -1,32 +1,39 @@
-﻿# Decred - Detailed Proposal Template
+﻿# Detailed Proposal Template for Decred
+##### What is a proposal?
+A proposal is a document used by project contributors as a working agreement between two parties: the contributor and the Decred community.
 
-##### How to write the title
+##### How to write a proposal?
+Proposals typically includes:
+* Proposal title
+* Overview
+* Scope of Work
+	* Project objectives
+* Schedule
+
+##### How to write a proposal title
 Write a brief summary of your proposed project in less than ten words.
 
-##### Example of a title
+##### Example of a proposal titles
 Improve conversion rates for dcrweb
 
 ## Overview
 
-##### How to write an overview
+##### How to write a proposal overview
 Write your description like it was an executive summary. It should summarize your proposal in a way that readers can easily understand the full scope and context of your proposal without having to read it all. A good description includes the problems/solutions/needs/motivations related to your proposal, and is written from a few sentances to a few paragraphs.
 
-##### Example of an overview
+##### Example of a proposal overview
 The clarity of our wallet download CTA (call-to-action) could be improved. Nowhere does it communicate that the user is downloading a wallet and as a new visitor, "Download" may not give enough context as to what they are downloading.
 
 We can improve the clarity of the wallet downlaod CTA by branding it as an offical decred wallet, and increasing the presence of the CTA on the page.
 
 To help increase wallet download conversion goals, I propose we experiment with the size, color, and text of the wallet download CTA.
 
-## Scope of Work
+## Scope of Work (SoW)
 
 ##### What to include in your scope
-Lorem ipsum
+SoW is important because it helps to guarantee that a proposal has clear guidelines and expectations. An effective SoW should include objectives, schedules, work details, expected outcomes, 
 
-##### Example of a scope
-Lorem ipsum
-
-**Scope of services**
+##### Example of a Scope of Work
 Lorem ipsum
 
 ### Deliverables
